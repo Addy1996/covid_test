@@ -1,0 +1,12 @@
+body {
+    background-color: #012d5e;
+
+    
+  }
+
+  @font-face {
+    font-family: "Prompt";
+    src: local("Prompt"),
+      url("./fronts/Prompt-Light.ttf") format("truetype");
+    font-weight: normal;
+  }

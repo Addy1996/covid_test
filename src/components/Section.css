@@ -1,0 +1,143 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    
+    
+}
+.div1{
+    background-color: #34577e;
+    width: 35.83%;
+    height: 210px;
+    border-radius: 2px;
+    margin-bottom: 10px;
+    
+}
+.div2{
+    background-color: #34577e;
+    width: 35.83%;
+    height: 340px;
+    border-radius: 2px;
+    float: left; 
+}
+
+.input1{
+    border: 1px solid #ccc;
+    width: 42%;
+    height: 25px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 6%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: center;
+    color: #234973;
+    font-family: Prompt;
+    padding: 5px 10px;
+    font-size: 0.775em;
+}
+
+.selectgender{
+    border: 1px solid #ccc;
+    width: 42%;
+    height: 25px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 5%;
+    display: flex;
+    color: #234973;
+    justify-content: center;
+    font-family: Prompt;
+    padding: 5px 10px;
+    font-size: 0.775em;
+}  
+
+p{
+    margin-left: 5%;
+    color:#fff;
+    font-family: Prompt;
+    font-size: 0.775em;
+}
+
+.inputjob{
+    border: 1px solid #ccc;
+    width: 90%;
+    height: 25px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 5%;
+    color: #234973;
+    display: flex;
+    justify-content: center;
+    font-family: Prompt;
+    padding: 5px 10px;
+}
+h2{ padding-top: 5%;
+    margin-left: 5%;
+    font-size: 20px;
+    font-family: Prompt;
+    color:#27A74F;
+    font-size: 0.875em;
+    
+    
+}
+h3{
+    font-family: Prompt;
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 20px;
+    color:#27A74F;
+    font-size: 0.875em;
+}
+
+.inputdate
+{   font-family: Prompt;
+    border: 1px solid #ccc;
+    width: 90%;
+    height: 25px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    color: #234973;
+    padding: 5px 10px;
+    font-size: 0.775em;
+    font-family: Prompt;
+}
+.inputdescription
+{
+    border: 1px solid #ccc;
+    width: 90%;
+    height: 100px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 5%;
+    color: #234973;
+    font-family: Prompt;
+    font-size: 0.775em;
+    padding: 5px 10px;
+    
+    
+
+}
+.btnsubmit
+{
+    
+    margin-left: 5%;
+    margin-top:  5%;
+    background-color:  #ffc107 ;
+    border:none ;
+    width: 25%;
+    height:30px;
+    cursor: pointer;
+    text-align: center;
+    font-family: Prompt;
+    font-size: 0.775em;
+
+}
+
+
