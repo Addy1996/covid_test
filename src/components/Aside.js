@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Aside.css'
-
+import Timelineload from '../components/Timelineload'
 class Aside extends React.Component {
    
   
@@ -8,6 +8,7 @@ class Aside extends React.Component {
         return ( 
      
       <div className = "div3">
+        <Timelineload/>
       </div>
      
 

@@ -1,0 +1,39 @@
+h4{
+    font-family: Prompt;
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 20px;
+    color:#ffc107;
+    font-size: 2.0em;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 auto;
+    letter-spacing: -2px;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+
+.div4{
+    margin-left: 5%;
+    margin-top:  5%;
+    border: 2px solid #ffc107;
+    border-radius: 40px;
+    background-color:  #ffc107 ;
+    width: 45%;
+    height:70px;
+    font-family: Prompt;
+    margin: 0 auto;
+    text-align: center;
+}
+h5{
+    font-size: 1.2em;
+    margin-top: 5%;
+
+}
+h6{
+    margin-top: -10%;
+    font-size: 0.7em;
+    font-weight: bold;
+
+}
