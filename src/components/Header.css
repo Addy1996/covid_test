@@ -1,9 +1,11 @@
-.container{
-    max-width: 960px;
-    margin: 0 auto;
-    
-}
+
 h1{
     color: #ffc107;
     font-family: Prompt;
+    letter-spacing: 3px;
+    font-size: 26px;
+    margin: 0 auto;
+    margin-top: 5%;
+    margin-bottom: 1%;
+
 }
